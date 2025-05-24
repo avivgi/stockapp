@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:background="@mipmap/stock_up">
-    
+
 
 
     <TextView
@@ -29,7 +29,7 @@
         app:layout_constraintVertical_bias="0.017" />
 
     <Button
-        android:id="@+id/btnSignUp"
+        android:id="@+id/signup_button"
         android:layout_width="140dp"
         android:layout_height="60dp"
         android:layout_marginTop="76dp"
